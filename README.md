@@ -5,7 +5,7 @@ The topics covered wine, music and poetry are the objects that inspire us from t
 [![author](https://img.shields.io/badge/author-edugera-red.svg)](https://www.linkedin.com/in/eduardo-ferreira-01a8441b/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/edugera/data_science/issues)
 
 <p align="center">
-  <img src="trade energy data science.jpg" >
+  <img src="wine and poetry.jpg" >
 </p>
 
 
@@ -28,4 +28,4 @@ Education is in Mathematics at UNICAMP - State University of Campinas and a degr
 ## Projetos:
 
 
-* Analysis of load evolution data from April 2018 to August 2020 with time series:
+* Projeto de mineração de dados das preferências do sabor do vinho verde com técnicas de regressão:https://bit.ly/3fTwHdp

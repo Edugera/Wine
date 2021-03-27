@@ -29,3 +29,4 @@ Education is in Mathematics at UNICAMP - State University of Campinas and a degr
 
 
 * Projeto de mineração de dados das preferências do sabor do vinho verde com técnicas de regressão:https://bit.ly/3fTwHdp
+* Projeto de Metereologia (Visualizar a Temperatura Global): https://bit.ly/2PBLAcI
